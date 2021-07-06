@@ -14,5 +14,4 @@ Skills:  REACT / JS / HTML / CSS / SASS/
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dairy-free&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dairy-free)  
 
