@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Manny Magno
 My name is Manuel Magno (Manny) I have a degree specializing in computer networking with years of experience in IT. I have taken web development courses at my local college, but I am also learning independently from Udemy and from the side projects that I create. I am currently learning React and am working to build a major project using this framework.
 
-Skills:  REACT / JS / HTML / CSS / SASS/ 
+Skills:  REACT / JS / HTML / CSS / SASS
 
 - 🔭 I’m currently working on small projects with React  
 - 🌱 I’m currently learning React 
